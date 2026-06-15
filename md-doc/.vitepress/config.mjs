@@ -42,7 +42,7 @@ export default defineConfig({
 
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2022-present <a href="https://github.com/zhaoruiyang97">zhaoruiyang</a>'
+            copyright: 'Copyright © 2020-present zhaory'
         },
 
         search: {
